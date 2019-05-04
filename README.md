@@ -22,3 +22,6 @@
 
 ## Mineração de Dados
 * Definição
+
+## Data Mining com Python
+* Anaconda Navigator
