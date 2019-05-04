@@ -20,5 +20,5 @@
   * Seleção de subconjuntos
 * Cuidados na observação dos dados
 
-### Mineração de Dados
+## Mineração de Dados
 * Definição
