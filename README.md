@@ -20,8 +20,10 @@
   * Seleção de subconjuntos
 * Cuidados na observação dos dados
 
+#### TensorFlow (estudar)
+
 ## Mineração de Dados
 * Definição
 
 ## Data Mining com Python
-* Anaconda Navigator
+* [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/getting-started/)
