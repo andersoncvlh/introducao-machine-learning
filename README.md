@@ -27,3 +27,8 @@
 
 ## Data Mining com Python
 * [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/getting-started/ "Getting started with Navigator")
+
+## Predição
+estudar
+
+## KNN e os vizinhos mais próxmos (algorítimo)
